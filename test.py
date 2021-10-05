@@ -1,3 +1,4 @@
+# This program tests Facebook's login and logout functions #
 
 ### Parameters ###
 test_url = "https://facebook.com"
